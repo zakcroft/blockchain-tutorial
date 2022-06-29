@@ -1,2 +1,0 @@
-## Hardhat Development
-// TODO
